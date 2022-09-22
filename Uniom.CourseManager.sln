@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{6B201FCD-5447-4D3E-B351-828338D39508}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uniom.CourseManager.Domain", "Source\Uniom.CourseManager.Domain\Uniom.CourseManager.Domain.csproj", "{5422C016-D25A-4E58-A542-D4BEF3C5A131}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uniom.CourseManager.Test", "Source\Uniom.CourseManager.Test\Uniom.CourseManager.Test.csproj", "{5EEA9581-99DB-4BDA-B55C-05F19ACE06C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5422C016-D25A-4E58-A542-D4BEF3C5A131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5422C016-D25A-4E58-A542-D4BEF3C5A131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5422C016-D25A-4E58-A542-D4BEF3C5A131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5422C016-D25A-4E58-A542-D4BEF3C5A131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EEA9581-99DB-4BDA-B55C-05F19ACE06C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEA9581-99DB-4BDA-B55C-05F19ACE06C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEA9581-99DB-4BDA-B55C-05F19ACE06C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEA9581-99DB-4BDA-B55C-05F19ACE06C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5422C016-D25A-4E58-A542-D4BEF3C5A131} = {6B201FCD-5447-4D3E-B351-828338D39508}
+		{5EEA9581-99DB-4BDA-B55C-05F19ACE06C3} = {6B201FCD-5447-4D3E-B351-828338D39508}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+/home/william/Desktop/_Dev/Uniom.CourseManager/Source/Uniom.CourseManager.Domain/bin/Debug/net6.0/Uniom.CourseManager.Domain.deps.json
+/home/william/Desktop/_Dev/Uniom.CourseManager/Source/Uniom.CourseManager.Domain/bin/Debug/net6.0/Uniom.CourseManager.Domain.dll
+/home/william/Desktop/_Dev/Uniom.CourseManager/Source/Uniom.CourseManager.Domain/bin/Debug/net6.0/ref/Uniom.CourseManager.Domain.dll
+/home/william/Desktop/_Dev/Uniom.CourseManager/Source/Uniom.CourseManager.Domain/bin/Debug/net6.0/Uniom.CourseManager.Domain.pdb
+/home/william/Desktop/_Dev/Uniom.CourseManager/Source/Uniom.CourseManager.Domain/obj/Debug/net6.0/Uniom.CourseManager.Domain.csproj.AssemblyReference.cache
+/home/william/Desktop/_Dev/Uniom.CourseManager/Source/Uniom.CourseManager.Domain/obj/Debug/net6.0/Uniom.CourseManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/william/Desktop/_Dev/Uniom.CourseManager/Source/Uniom.CourseManager.Domain/obj/Debug/net6.0/Uniom.CourseManager.Domain.AssemblyInfoInputs.cache
+/home/william/Desktop/_Dev/Uniom.CourseManager/Source/Uniom.CourseManager.Domain/obj/Debug/net6.0/Uniom.CourseManager.Domain.AssemblyInfo.cs
+/home/william/Desktop/_Dev/Uniom.CourseManager/Source/Uniom.CourseManager.Domain/obj/Debug/net6.0/Uniom.CourseManager.Domain.csproj.CoreCompileInputs.cache
+/home/william/Desktop/_Dev/Uniom.CourseManager/Source/Uniom.CourseManager.Domain/obj/Debug/net6.0/Uniom.CourseManager.Domain.dll
+/home/william/Desktop/_Dev/Uniom.CourseManager/Source/Uniom.CourseManager.Domain/obj/Debug/net6.0/ref/Uniom.CourseManager.Domain.dll
+/home/william/Desktop/_Dev/Uniom.CourseManager/Source/Uniom.CourseManager.Domain/obj/Debug/net6.0/Uniom.CourseManager.Domain.pdb
